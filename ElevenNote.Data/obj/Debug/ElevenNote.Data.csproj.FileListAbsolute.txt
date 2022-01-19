@@ -14,3 +14,6 @@ E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Ide
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialMigration.resources
