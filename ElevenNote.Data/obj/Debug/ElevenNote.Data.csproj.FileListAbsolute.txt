@@ -1,5 +1,3 @@
-E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.AssemblyReference.cache
-E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll.config
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.pdb
@@ -11,9 +9,10 @@ E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.xml
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialMigration.resources
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
-E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
-E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
-E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialMigration.resources

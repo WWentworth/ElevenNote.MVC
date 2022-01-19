@@ -86,6 +86,7 @@ E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\ElevenNote.Data.pdb
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\ElevenNote.Data.dll.config
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\ElevenNote.Models.pdb
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\ElevenNote.Services.pdb
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\ElevenNote.Services.dll.config
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Helpers.xml
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Mvc.xml
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Optimization.xml
