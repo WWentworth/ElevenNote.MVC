@@ -7,6 +7,10 @@ E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.dll
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.dll
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.dll
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
@@ -14,6 +18,10 @@ E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.xml
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.xml
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.xml
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.xml
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.AssemblyReference.cache
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete

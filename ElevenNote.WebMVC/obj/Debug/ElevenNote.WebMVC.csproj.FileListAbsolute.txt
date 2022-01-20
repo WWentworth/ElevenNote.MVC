@@ -72,7 +72,10 @@ E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\Microsoft.Owin.Security.
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\Microsoft.Web.Infrastructure.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\Newtonsoft.Json.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\Owin.dll
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Helpers.dll
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.dll
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Mvc.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Optimization.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Razor.dll
@@ -85,6 +88,9 @@ E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\ElevenNote.Data.dll.conf
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\ElevenNote.Models.pdb
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\ElevenNote.Services.pdb
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\ElevenNote.Services.dll.config
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.xml
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.xml
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.xml
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Helpers.xml
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Mvc.xml
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Optimization.xml

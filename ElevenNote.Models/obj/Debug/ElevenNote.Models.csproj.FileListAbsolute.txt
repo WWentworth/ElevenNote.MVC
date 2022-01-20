@@ -1,6 +1,14 @@
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
-E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.AssemblyReference.cache
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\bin\Debug\Newtonsoft.Json.dll
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\bin\Debug\System.Net.Http.Formatting.dll
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.dll
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.WebHost.dll
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\bin\Debug\Newtonsoft.Json.xml
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\bin\Debug\System.Net.Http.Formatting.xml
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.xml
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.WebHost.xml
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 E:\ElevenFiftyRedBadge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
