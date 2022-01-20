@@ -91,5 +91,15 @@ namespace ElevenNote.WebMVC.Controllers
             var model = svc.GetNoteById(id);
             return View(model);
         }
+        [HttpPost]
+        [ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeletePost(int id)
+        {
+            var service = CreateNoteService();
+            service.DeleteNote(id);
+            TempData["SaveResult"] = "Your note was deleted";
+            return RedirectToAction("Index");
+        }
     }
 }
